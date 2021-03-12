@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#WorkSpace\\HomeWork2\\HomeWork2\\HomeWork2-1.csproj": {}
+    "D:\\C-Sharp\\HomeWork2\\HomeWork2\\HomeWork2-1.csproj": {}
   },
   "projects": {
-    "D:\\C#WorkSpace\\HomeWork2\\HomeWork2\\HomeWork2-1.csproj": {
+    "D:\\C-Sharp\\HomeWork2\\HomeWork2\\HomeWork2-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#WorkSpace\\HomeWork2\\HomeWork2\\HomeWork2-1.csproj",
+        "projectUniqueName": "D:\\C-Sharp\\HomeWork2\\HomeWork2\\HomeWork2-1.csproj",
         "projectName": "HomeWork2-1",
-        "projectPath": "D:\\C#WorkSpace\\HomeWork2\\HomeWork2\\HomeWork2-1.csproj",
+        "projectPath": "D:\\C-Sharp\\HomeWork2\\HomeWork2\\HomeWork2-1.csproj",
         "packagesPath": "C:\\Users\\86150\\.nuget\\packages\\",
-        "outputPath": "D:\\C#WorkSpace\\HomeWork2\\HomeWork2\\obj\\",
+        "outputPath": "D:\\C-Sharp\\HomeWork2\\HomeWork2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\86150\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -22,12 +22,15 @@ namespace HomeWork2_4
             {
                 for (int j = 1; j <= 5; j++)
                 {
-                    mat[i,j] =Console.Read();
+                    mat[i,j] = Convert.ToInt32(Console.Read())-'0';
+                    Console.Read();
                 }
+                Console.Read();
             }
+           
             bool b = JudgeMatrix(mat);
             
-            if (b = true)
+            if (b == true)
             {
                 Console.WriteLine("这个矩阵是托普利茨矩阵。");
             }
@@ -38,7 +41,7 @@ namespace HomeWork2_4
 
         }
         public static bool JudgeMatrix(int[,] mat)
-        {
+         {
             bool b = true;
             for (int m = 1; m <= 5; m++)
             {
@@ -56,14 +59,19 @@ namespace HomeWork2_4
                     j += 1;
                    
                 }
+            }
 
-                while (mat[i,j] != 0)
+            for (int m = 1; m <= 5; m++)
+            {
+                int i = m;
+                int j = 1;
+
+                while (mat[i, j] != 0)
                 {
-                    if (mat[m,1] != mat[i,j])
+                    if (mat[1, m] != mat[i, j])
                     {
                         b = false;
                         break;
-
                     }
                     i += 1;
                     j += 1;
@@ -73,5 +81,9 @@ namespace HomeWork2_4
 
             return b;
         }
+
+            
     }
 }
+
+

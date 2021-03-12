@@ -1,0 +1,10 @@
+D:\C#WorkSpace\HW1-2\HW1-2\bin\Debug\HW1-2.exe.config
+D:\C#WorkSpace\HW1-2\HW1-2\bin\Debug\HW1-2.exe
+D:\C#WorkSpace\HW1-2\HW1-2\bin\Debug\HW1-2.pdb
+D:\C#WorkSpace\HW1-2\HW1-2\obj\Debug\HW1-2.csprojAssemblyReference.cache
+D:\C#WorkSpace\HW1-2\HW1-2\obj\Debug\HW1_2.Form1.resources
+D:\C#WorkSpace\HW1-2\HW1-2\obj\Debug\HW1_2.Properties.Resources.resources
+D:\C#WorkSpace\HW1-2\HW1-2\obj\Debug\HW1-2.csproj.GenerateResource.cache
+D:\C#WorkSpace\HW1-2\HW1-2\obj\Debug\HW1-2.csproj.CoreCompileInputs.cache
+D:\C#WorkSpace\HW1-2\HW1-2\obj\Debug\HW1-2.exe
+D:\C#WorkSpace\HW1-2\HW1-2\obj\Debug\HW1-2.pdb

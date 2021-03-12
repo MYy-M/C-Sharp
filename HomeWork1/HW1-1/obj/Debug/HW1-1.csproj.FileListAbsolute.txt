@@ -1,0 +1,7 @@
+D:\C#WorkSpace\HW1-1\bin\Debug\HW1-1.exe.config
+D:\C#WorkSpace\HW1-1\bin\Debug\HW1-1.exe
+D:\C#WorkSpace\HW1-1\bin\Debug\HW1-1.pdb
+D:\C#WorkSpace\HW1-1\obj\Debug\HW1-1.csprojAssemblyReference.cache
+D:\C#WorkSpace\HW1-1\obj\Debug\HW1-1.csproj.CoreCompileInputs.cache
+D:\C#WorkSpace\HW1-1\obj\Debug\HW1-1.exe
+D:\C#WorkSpace\HW1-1\obj\Debug\HW1-1.pdb

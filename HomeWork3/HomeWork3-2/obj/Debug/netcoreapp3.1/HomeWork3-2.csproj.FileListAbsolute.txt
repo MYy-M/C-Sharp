@@ -1,0 +1,13 @@
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\bin\Debug\netcoreapp3.1\HomeWork3-2.exe
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\bin\Debug\netcoreapp3.1\HomeWork3-2.deps.json
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\bin\Debug\netcoreapp3.1\HomeWork3-2.runtimeconfig.json
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\bin\Debug\netcoreapp3.1\HomeWork3-2.runtimeconfig.dev.json
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\bin\Debug\netcoreapp3.1\HomeWork3-2.dll
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\bin\Debug\netcoreapp3.1\HomeWork3-2.pdb
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\obj\Debug\netcoreapp3.1\HomeWork3-2.csprojAssemblyReference.cache
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\obj\Debug\netcoreapp3.1\HomeWork3-2.AssemblyInfoInputs.cache
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\obj\Debug\netcoreapp3.1\HomeWork3-2.AssemblyInfo.cs
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\obj\Debug\netcoreapp3.1\HomeWork3-2.csproj.CoreCompileInputs.cache
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\obj\Debug\netcoreapp3.1\HomeWork3-2.dll
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\obj\Debug\netcoreapp3.1\HomeWork3-2.pdb
+D:\C#WorkSpace\HomeWork3\HomeWork3-2\obj\Debug\netcoreapp3.1\HomeWork3-2.genruntimeconfig.cache

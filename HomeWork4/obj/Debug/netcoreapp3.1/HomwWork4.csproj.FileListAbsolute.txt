@@ -1,0 +1,13 @@
+E:\C#WorkSpace\HomwWork4\bin\Debug\netcoreapp3.1\HomwWork4.exe
+E:\C#WorkSpace\HomwWork4\bin\Debug\netcoreapp3.1\HomwWork4.deps.json
+E:\C#WorkSpace\HomwWork4\bin\Debug\netcoreapp3.1\HomwWork4.runtimeconfig.json
+E:\C#WorkSpace\HomwWork4\bin\Debug\netcoreapp3.1\HomwWork4.runtimeconfig.dev.json
+E:\C#WorkSpace\HomwWork4\bin\Debug\netcoreapp3.1\HomwWork4.dll
+E:\C#WorkSpace\HomwWork4\bin\Debug\netcoreapp3.1\HomwWork4.pdb
+E:\C#WorkSpace\HomwWork4\obj\Debug\netcoreapp3.1\HomwWork4.csprojAssemblyReference.cache
+E:\C#WorkSpace\HomwWork4\obj\Debug\netcoreapp3.1\HomwWork4.AssemblyInfoInputs.cache
+E:\C#WorkSpace\HomwWork4\obj\Debug\netcoreapp3.1\HomwWork4.AssemblyInfo.cs
+E:\C#WorkSpace\HomwWork4\obj\Debug\netcoreapp3.1\HomwWork4.csproj.CoreCompileInputs.cache
+E:\C#WorkSpace\HomwWork4\obj\Debug\netcoreapp3.1\HomwWork4.dll
+E:\C#WorkSpace\HomwWork4\obj\Debug\netcoreapp3.1\HomwWork4.pdb
+E:\C#WorkSpace\HomwWork4\obj\Debug\netcoreapp3.1\HomwWork4.genruntimeconfig.cache

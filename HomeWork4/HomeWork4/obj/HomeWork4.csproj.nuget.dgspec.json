@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C-Sharp\\HomeWork4\\HomeWork4-2\\HomeWork4-2.csproj": {}
+    "E:\\C#WorkSpace\\HomeWork4\\HomeWork4\\HomeWork4.csproj": {}
   },
   "projects": {
-    "D:\\C-Sharp\\HomeWork4\\HomeWork4-2\\HomeWork4-2.csproj": {
+    "E:\\C#WorkSpace\\HomeWork4\\HomeWork4\\HomeWork4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C-Sharp\\HomeWork4\\HomeWork4-2\\HomeWork4-2.csproj",
-        "projectName": "HomeWork4-2",
-        "projectPath": "D:\\C-Sharp\\HomeWork4\\HomeWork4-2\\HomeWork4-2.csproj",
+        "projectUniqueName": "E:\\C#WorkSpace\\HomeWork4\\HomeWork4\\HomeWork4.csproj",
+        "projectName": "HomeWork4",
+        "projectPath": "E:\\C#WorkSpace\\HomeWork4\\HomeWork4\\HomeWork4.csproj",
         "packagesPath": "C:\\Users\\86150\\.nuget\\packages\\",
-        "outputPath": "D:\\C-Sharp\\HomeWork4\\HomeWork4-2\\obj\\",
+        "outputPath": "E:\\C#WorkSpace\\HomeWork4\\HomeWork4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

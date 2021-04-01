@@ -13,3 +13,4 @@ E:\C#WorkSpace\HomeWork4\HomeWork4-2\obj\Debug\net5.0\HomeWork4-2.dll
 E:\C#WorkSpace\HomeWork4\HomeWork4-2\obj\Debug\net5.0\ref\HomeWork4-2.dll
 E:\C#WorkSpace\HomeWork4\HomeWork4-2\obj\Debug\net5.0\HomeWork4-2.pdb
 E:\C#WorkSpace\HomeWork4\HomeWork4-2\obj\Debug\net5.0\HomeWork4-2.genruntimeconfig.cache
+E:\C#WorkSpace\HomeWork4\HomeWork4-2\obj\Debug\net5.0\HomeWork4-2.csprojAssemblyReference.cache

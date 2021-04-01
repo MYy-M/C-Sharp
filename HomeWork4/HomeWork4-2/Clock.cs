@@ -2,23 +2,38 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Timers;
+using System.Threading;
 namespace HomeWork4_2
 {
+    public delegate void ClockHandle(Object Sender);
     class Clock
     {
-        internal void ShowCurrentTime(object sender, ElapsedEventArgs e)
+
+        public event ClockHandle Tick;
+        public event ClockHandle Bellring;
+
+        Handle handle = new Handle();
+        public void UseHandle()
         {
-            Console.Write(DateTime.Now.ToString());
-            Console.WriteLine("  时钟滴答");
+            
+            Tick += handle.ShowCurrentTime;
+            Bellring += handle.BellRing;
         }
-
-        internal void BellRing(object sender, ElapsedEventArgs e)
+        
+        public void DoTick()
         {
-            if (DateTime.Now.ToString() == "2021/3/25 23:23:00")
-            {
-                Console.WriteLine("闹钟响铃！");
+            while (true) 
+            { 
+                int interval = 1000;
+                Thread.Sleep(interval);
 
+                Tick(this); 
+
+                if (DateTime.Now.ToString() == "2021/3/26 11:03:30" )
+                    Bellring(this);
             }
         }
+       
+       
     }
 }

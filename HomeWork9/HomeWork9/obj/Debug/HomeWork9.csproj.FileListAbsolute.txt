@@ -1,0 +1,4 @@
+E:\C#WorkSpace\HomeWork9\HomeWork9\obj\Debug\HomeWork9.csprojAssemblyReference.cache
+E:\C#WorkSpace\HomeWork9\HomeWork9\obj\Debug\HomeWork9.Properties.Resources.resources
+E:\C#WorkSpace\HomeWork9\HomeWork9\obj\Debug\HomeWork9.csproj.GenerateResource.cache
+E:\C#WorkSpace\HomeWork9\HomeWork9\obj\Debug\HomeWork9.csproj.CoreCompileInputs.cache

@@ -8,7 +8,7 @@ namespace HomeWork9
 {
     public class URL
     {
-        public String Urls { get; set; }
+        public string Urls { get; set; }
         public bool judge = true;
 
     }

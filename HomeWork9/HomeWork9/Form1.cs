@@ -22,13 +22,14 @@ namespace HomeWork9
 
         private void Crawler_Click(object sender, EventArgs e)
         {
-            myCrawler.Crawl();         
+
+            myCrawler.Begin(url);        
           
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            crawler.DataBindings.Add("Text", url, "Urls");
+            textBox1.DataBindings.Add("Text", url, "Urls");
       
         }
     }
